@@ -4,19 +4,17 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@mipmap/thumbf"
     android:minWidth="25px"
     android:minHeight="25px"
-    android:background="@drawable/bg_img">
+    >
     <ImageButton
-        android:src="@drawable/bg_img"       
+        android:src="@drawable/pumpm"        
         android:layout_width="125.0dp"
-        android:layout_height="111.5dp"
-        android:id="@+id/ImageButton"        
+        android:layout_height="110.5dp"
+        android:id="@+id/ImageButton"
         android:layout_marginTop="150.9dp"
         android:scaleType="fitCenter"
-        android:layout_gravity="center" />
+        android:layout_gravity="center"        
+        android:layout_marginLeft="0.0dp" />
 </LinearLayout>
-
-
-
-
